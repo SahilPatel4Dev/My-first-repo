@@ -4,4 +4,5 @@
 ```
 window.alert('this is a alert box');
 ```
-!(https://user-images.githubusercontent.com/95132255/143727841-e3a7160c-21a7-4580-b0e8-cf566b0800e7.png)
+
+![1](https://user-images.githubusercontent.com/95132255/143727975-1f95609b-d3ce-4115-bcc9-b1120e9ec8d2.png)
